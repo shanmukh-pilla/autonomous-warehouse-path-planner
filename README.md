@@ -6,9 +6,7 @@ The project combines a C++ pathfinding engine with a browser-based visualization
 
 <div align="center">
 
-
-https://github.com/user-attachments/assets/35268ab0-6c08-426e-b0f2-c5502e12f4b3
-
+https://github.com/user-attachments/assets/9aa13919-33b4-4220-adb6-3bec69ccd525
 
   <p align="center">
     Autonomous warehouse robot navigation simulation using A* pathfinding and obstacle-aware route planning.
